@@ -1,18 +1,17 @@
-def troca(l, fim, c):
-    for j in range(fim):
-        for k in range((j + 1), fim):
-            if l[j] > l[k]:
-                aux = l[j]
-                l[j] = l[k]
-                l[k] = aux
-    c = 3
-    return c
-
-n = int(input())
-for e in range(n):
-        fim = int(input())
-        l = list(map(int, input().split()))
-        c = 5
-        troca(l, fim)
-        print(l, c)
-        print('Optimal train swapping takes %d swaps.' % c)
+L = [4,3,2,1]
+fim = 4
+while fim > 1:
+     trocou = False
+     x = 0
+     while x < (fim-1):
+         if L[x] > L[x+1]:
+               trocou = True
+               temp = L[x]
+               L[x] = L[x+1]
+               L[x+1] = temp
+         x += 1
+     if not trocou:
+         break
+     fim -= 1
+for e in L:
+     print(e)

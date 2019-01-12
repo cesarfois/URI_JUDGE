@@ -1,9 +1,7 @@
-
-n = int(input())
-for e in range(n):
+for e in range(int(input())):
         fim = int(input())
         l = list(map(int, input().split()))
-        aux = 0
+        c, aux = 0,0
         c = 0
         for j in range(fim):
             for k in range((j+1), fim):
