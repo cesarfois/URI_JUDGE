@@ -12,7 +12,7 @@ for c in range(12):
             qde = qde + 1
 
 if operacao == 'S':
-    print("%.1f" % soma)
+    print("%.3f" % soma)
 else:
     print("%.1f" % (soma/qde))
 
