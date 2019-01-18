@@ -1,19 +1,14 @@
-ERRRADA ==
 while True:
     try:
         di, vf, vg = map(int, input().split())
-        df = vf + di
-        dg = vg
-        pegou = "N"
-        while df <= 12:
-            if dg >= df:
-                pegou = "S"
-                break
-            dg += vg
-            df += vf
-        print(pegou)
+        h = ((di*di) + (12*12)) ** (1/2)
 
+        df = 12/vf
+        dg = h/vg
+
+        if dg <= df:
+            print('S')
+        else:
+            print('N')
     except EOFError:
         break
-
-
