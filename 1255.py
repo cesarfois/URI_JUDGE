@@ -9,5 +9,4 @@ for i in s:
         print(i)
         c += 1
 
-
 print(c)
