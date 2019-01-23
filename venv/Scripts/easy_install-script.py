@@ -1,4 +1,4 @@
-#!D:\Cursos\Uri_Judge\venv\Scripts\python.exe
+#!C:\D\Cursos\Uri_Judge\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==39.0.1','console_scripts','easy_install'
 __requires__ = 'setuptools==39.0.1'
 import re
