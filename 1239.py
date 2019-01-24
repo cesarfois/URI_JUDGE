@@ -2,22 +2,21 @@
 while True:
     try:
         s = str(input())
-
         res = ''
-        c = 0
+        c, c1= 0, 0
         for i in s:
-            if i == '_' and c == 1:
-                res += '</i>'
-                c = 0
-            elif i == '_' and c != 1:
+            if i == '_' and c % 2 == 0:
                 res += '<i>'
-                c = 1
-            elif i == '*' and c == 1:
-                res += '</b>'
-                c = 0
-            elif i == '*' and c != 1:
+                c += 1
+            elif i == '_' and c % 2 != 0:
+                res += '</i>'
+                c += 1
+            elif i == '*' and c1 % 2 == 0:
                 res += '<b>'
-                c = 1
+                c1 += 1
+            elif i == '*' and c1 % 2 != 0:
+                res += '</b>'
+                c1 += 1
             else:
                 res += i
 

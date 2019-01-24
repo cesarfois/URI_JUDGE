@@ -1,28 +1,24 @@
-NAO COMPLETADO
+while True:
+    try:
+        s = input()
+        p = int(input())
+        c, clock = 0, 0
 
-
-s = input()
-
-st = True
-
-print(s)
-p = 4
-res = 1
-clock = 1
-for i in s:
-    if clock <= p:
-        if i == 'W':
-            res += 1
-            clock += 1
-        elif i == 'R' and clock == p:
-            res += 1
-            clock = 1
-        elif i == 'R' and s[i+1:] == 'W':
-            res += 1
-        else:
+        for i in range(len(s)):
+            if s[i] == 'W':
+                clock += 1
+                if c > 0:
+                    c = 0
+                    clock += 1
+            else:
+                c += 1
+                if c == p:
+                    clock += 1
+                    c = 0
+        if c > 0:
             clock += 1
 
+        print(clock)
 
-
-
-print(res)
+    except EOFError:
+        break
