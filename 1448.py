@@ -1,3 +1,5 @@
+# so funcionou no python 2
+
 n = int(input())
 inst = 0
 for i in range(n):
