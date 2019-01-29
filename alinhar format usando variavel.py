@@ -1,6 +1,8 @@
 '''
 
 print '{0:>{x}}'.format('foo', x=x)
+
+print '{:<}{:>20}.format(a,b)'
        foo
 
 
