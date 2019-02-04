@@ -10,6 +10,8 @@ n = 9
 for e in range(1,10,2):
     print('{0:^{x}}'.format('*'*e, x=n))
 
+ print('k'+'a'*(c*m))
+
 https://pyformat.info/
 
 a  = 1
