@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef041fb3-b7b8-4ad3-ba31-6d16c703b247" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2534.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2540.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2544.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2633.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2670.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2708.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2721.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2747.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2846.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2533.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2542.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2543.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2554.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2554v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas trabalhando com date.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +28,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$2356.coverage" NAME="2356 Coverage Results" MODIFIED="1548460125133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1197.coverage" NAME="1197 Coverage Results" MODIFIED="1547555514539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1169.coverage" NAME="1169 Coverage Results" MODIFIED="1548943406795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2543.coverage" NAME="2543 Coverage Results" MODIFIED="1549552959953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2807.coverage" NAME="2807 Coverage Results" MODIFIED="1549408592248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2862.coverage" NAME="2862 Coverage Results" MODIFIED="1548727649767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1957.coverage" NAME="1957 Coverage Results" MODIFIED="1546604175965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,6 +48,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$1259.coverage" NAME="1259 Coverage Results" MODIFIED="1547170132897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2651.coverage" NAME="2651 Coverage Results" MODIFIED="1548422995549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2253.coverage" NAME="2253 Coverage Results" MODIFIED="1548439296224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2533.coverage" NAME="2533 Coverage Results" MODIFIED="1549537758630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2787.coverage" NAME="2787 Coverage Results" MODIFIED="1546999780750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2023.coverage" NAME="2023 Coverage Results" MODIFIED="1548419427570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2853.coverage" NAME="2853 Coverage Results" MODIFIED="1546939725870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -87,6 +85,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$2780.coverage" NAME="2780 Coverage Results" MODIFIED="1547002176457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2143.coverage" NAME="2143 Coverage Results" MODIFIED="1547052462264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1140.coverage" NAME="1140 Coverage Results" MODIFIED="1548940330597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2542.coverage" NAME="2542 Coverage Results" MODIFIED="1549555672690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2581.coverage" NAME="2581 Coverage Results" MODIFIED="1546908486586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1581.coverage" NAME="1581 Coverage Results" MODIFIED="1548412909250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1248.coverage" NAME="1248 Coverage Results" MODIFIED="1549068319848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -179,10 +178,12 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$2765.coverage" NAME="2765 Coverage Results" MODIFIED="1548800311405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2003.coverage" NAME="2003 Coverage Results" MODIFIED="1546612733923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1257.coverage" NAME="1257 Coverage Results" MODIFIED="1549329890338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2554v2.coverage" NAME="2554v2 Coverage Results" MODIFIED="1549548995028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2006.coverage" NAME="2006 Coverage Results" MODIFIED="1546613512848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1214___Acima_da_Média_.coverage" NAME="1214 - Acima da Média  Coverage Results" MODIFIED="1547470031111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1548.coverage" NAME="1548 Coverage Results" MODIFIED="1548887221847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$test2323.coverage" NAME="test2323 Coverage Results" MODIFIED="1547685374098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2554.coverage" NAME="2554 Coverage Results" MODIFIED="1549547283344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1168.coverage" NAME="1168 Coverage Results" MODIFIED="1547236111879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1170___Blobs.coverage" NAME="1170 - Blobs Coverage Results" MODIFIED="1547461440658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2557.coverage" NAME="2557 Coverage Results" MODIFIED="1548503802845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -231,8 +232,8 @@
       <file leaf-file-name="2807.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2807.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="18" />
+            <state relative-caret-position="110">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -246,29 +247,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2544.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2544.py">
+      <file leaf-file-name="2533.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2533.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2633.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2633.py">
+      <file leaf-file-name="2543.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2543.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="5" column="15" lean-forward="true" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="8" column="26" lean-forward="true" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2670.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2670.py">
+      <file leaf-file-name="2542.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2542.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="15" lean-forward="true" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="38">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -285,13 +286,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pedra</find>
-      <find>= 14</find>
-      <find>51680 = 14</find>
+      <find />
+      <find />
       <find>Factori</find>
       <find>Fract</find>
       <find>a-z</find>
       <find>Tesou</find>
-      <find>Import re</find>
+      <find />
       <find>obi</find>
       <find>0:^{x}}</find>
       <find>primo</find>
@@ -317,12 +318,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2845.py" />
-        <option value="$PROJECT_DIR$/2338.py" />
-        <option value="$PROJECT_DIR$/2582.py" />
-        <option value="$PROJECT_DIR$/2547.py" />
-        <option value="$PROJECT_DIR$/2826.py" />
-        <option value="$PROJECT_DIR$/2826v2.py" />
         <option value="$PROJECT_DIR$/2829.py" />
         <option value="$PROJECT_DIR$/listas filtrar.py" />
         <option value="$PROJECT_DIR$/1068.py" />
@@ -368,6 +363,12 @@
         <option value="$PROJECT_DIR$/lista index.py" />
         <option value="$PROJECT_DIR$/2633.py" />
         <option value="$PROJECT_DIR$/2670.py" />
+        <option value="$PROJECT_DIR$/2533.py" />
+        <option value="$PROJECT_DIR$/listas trabalhando com date.py" />
+        <option value="$PROJECT_DIR$/2554.py" />
+        <option value="$PROJECT_DIR$/2554v2.py" />
+        <option value="$PROJECT_DIR$/2543.py" />
+        <option value="$PROJECT_DIR$/2542.py" />
       </list>
     </option>
   </component>
@@ -432,8 +433,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2670">
-    <configuration name="2534" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2542">
+    <configuration name="2533" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -446,13 +447,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2534.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2533.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2540" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2542" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -465,13 +466,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2540.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2542.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2544" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2543" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -484,13 +485,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2544.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2543.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2633" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2554" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -503,13 +504,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2633.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2554.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2670" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2554v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -522,26 +523,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2670.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2554v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.2540" />
-      <item itemvalue="Python.2534" />
-      <item itemvalue="Python.2544" />
-      <item itemvalue="Python.2633" />
-      <item itemvalue="Python.2670" />
+      <item itemvalue="Python.2533" />
+      <item itemvalue="Python.2554" />
+      <item itemvalue="Python.2554v2" />
+      <item itemvalue="Python.2543" />
+      <item itemvalue="Python.2542" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2670" />
-        <item itemvalue="Python.2633" />
-        <item itemvalue="Python.2544" />
-        <item itemvalue="Python.2534" />
-        <item itemvalue="Python.2540" />
+        <item itemvalue="Python.2542" />
+        <item itemvalue="Python.2543" />
+        <item itemvalue="Python.2554v2" />
+        <item itemvalue="Python.2554" />
+        <item itemvalue="Python.2533" />
       </list>
     </recent_temporary>
   </component>
@@ -569,14 +570,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.36633664" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.42739275" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.44719473" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.45874587" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.45049506" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -606,48 +606,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2829.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1068.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1430.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/copiar uma lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ordenando listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1219.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-146">
@@ -866,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2807.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2534.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-43">
@@ -908,20 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2846.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2544.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -936,10 +873,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2807.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2544.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2670.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="15" lean-forward="true" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2846.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listas trabalhando com date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2554v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="27" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2554.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2533.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2543.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="26" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2542.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
