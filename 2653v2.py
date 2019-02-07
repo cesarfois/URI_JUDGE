@@ -7,3 +7,5 @@ while True:
     except EOFError:
         print(len(lista))
         break
+
+        #nao passou
