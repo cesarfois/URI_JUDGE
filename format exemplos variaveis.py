@@ -10,6 +10,12 @@ n = 9
 for e in range(1,10,2):
     print('{0:^{x}}'.format('*'*e, x=n))
 
+    print('Ent{0}o é N{0}t{0}l!'.format('a'*n))
+
+
+    print('Ent{0}o é N{0}t{0}l!'.format('a'*n,x=n))
+    print('Ent{}o é N{}t{}l!'.format('a'*n,'a'*n,'a'*n, n))
+
  print('k'+'a'*(c*m))
 
 https://pyformat.info/
