@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef041fb3-b7b8-4ad3-ba31-6d16c703b247" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1436.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2568.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2602v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2603" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2604" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2679.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2803.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2844.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2926.py" beforeDir="false" afterPath="$PROJECT_DIR$/2926.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/format exemplos variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/format exemplos variaveis.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -278,8 +267,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2602v2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2602v2">
+      <file leaf-file-name="2602" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2602">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="1" />
@@ -296,11 +285,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2604" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2604" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2604">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2607" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2607">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2615" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2615">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -351,8 +358,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2747.py" />
-        <option value="$PROJECT_DIR$/2540.py" />
         <option value="$PROJECT_DIR$/2534.py" />
         <option value="$PROJECT_DIR$/2544.py" />
         <option value="$PROJECT_DIR$/lista index.py" />
@@ -402,6 +407,8 @@
         <option value="$PROJECT_DIR$/2602v2" />
         <option value="$PROJECT_DIR$/2603" />
         <option value="$PROJECT_DIR$/2604" />
+        <option value="$PROJECT_DIR$/2607" />
+        <option value="$PROJECT_DIR$/2615" />
       </list>
     </option>
   </component>
@@ -603,16 +610,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.36633664" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.42739275" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.41914192" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.45049506" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.41914192" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.45049506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.0892587" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
@@ -663,20 +669,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2670.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" lean-forward="true" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listas trabalhando com date.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2554v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -989,7 +981,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2602v2">
+    <entry file="file://$PROJECT_DIR$/2602">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" />
@@ -1007,6 +999,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2607">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2615">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

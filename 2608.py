@@ -1,0 +1,1 @@
+select max(carga) as price, min(carga) as price from products;
