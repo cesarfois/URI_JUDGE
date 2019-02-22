@@ -1,0 +1,5 @@
+select products.name, categories.name
+from products inner join providers categories
+on products.id_providers = categories.id
+where id_categories = 6;
+
