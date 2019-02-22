@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef041fb3-b7b8-4ad3-ba31-6d16c703b247" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/2619" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -285,11 +286,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2617" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2617" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2617">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="467">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2621" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2621">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2619" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2619">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -340,8 +359,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/listas trabalhando com date.py" />
-        <option value="$PROJECT_DIR$/2554.py" />
         <option value="$PROJECT_DIR$/2554v2.py" />
         <option value="$PROJECT_DIR$/2543.py" />
         <option value="$PROJECT_DIR$/2542.py" />
@@ -391,6 +408,8 @@
         <option value="$PROJECT_DIR$/2605" />
         <option value="$PROJECT_DIR$/2616" />
         <option value="$PROJECT_DIR$/2617" />
+        <option value="$PROJECT_DIR$/2621" />
+        <option value="$PROJECT_DIR$/2619" />
       </list>
     </option>
   </component>
@@ -591,7 +610,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.36633664" />
@@ -651,20 +670,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2653v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Input Continuo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2630.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -995,6 +1000,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2621">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2619">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

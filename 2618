@@ -1,0 +1,55 @@
+select products.name, providers.name, categories.name
+from products
+inner join providers on products.id_providers = providers.id
+inner join categories on products.id_categories = categories.id
+where providers.name = 'Sansul SA' and categories.name = 'Imported'
+
+
+create table providers(
+id numeric primary key,
+name varchar(255),
+street varchar(255),
+city varchar(255),
+state char(2));
+
+
+create table products(
+id numeric primary key,
+name varchar(255),
+amount decimal(10,2),
+price decimal(10,2),
+id_providers numeric,
+id_categories numeric);
+
+create table categories(
+id numeric primary key,
+name varchar(255));
+
+insert into products values
+('1','Blue Chair','30','300.00','5','5'),
+('2','Red Chair','50','2150.00','2','1'),
+('3','Disney Wardrobe','400','829.50','4','1'),
+('4','Executive Chair','20','9.90','3','1'),
+('5','Solar Panel','30','3000.25','2','2');
+
+
+insert into providers values
+('1','Ajax SA','Presidente Castelo Branco','Porto Alegre','RS'),
+('2','Sansul SA','Av Brasil','Rio de Janeiro','RJ'),
+('3','South Chairs','Av Moinho','Santa Maria','RS'),
+('4','Elon Electro','Apolo','São Paulo','SP'),
+('5','Mike Electro','Pedro da Cunha','Curitiba','PR');
+
+insert into categories values
+(1,'Super Luxury'),
+(2,'Imported'),
+(3,'Tech'),
+(4,'Vintage'),
+(5 ,'Supreme');
+
+
+
+
+select * from providers;
+select * from products;
+select * from categories;
