@@ -276,11 +276,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2616" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2616" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2616">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
               <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2617" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2617">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -331,7 +340,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2533.py" />
         <option value="$PROJECT_DIR$/listas trabalhando com date.py" />
         <option value="$PROJECT_DIR$/2554.py" />
         <option value="$PROJECT_DIR$/2554v2.py" />
@@ -382,6 +390,7 @@
         <option value="$PROJECT_DIR$/2622" />
         <option value="$PROJECT_DIR$/2605" />
         <option value="$PROJECT_DIR$/2616" />
+        <option value="$PROJECT_DIR$/2617" />
       </list>
     </option>
   </component>
@@ -394,7 +403,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1036" />
     <option name="height" value="735" />
@@ -642,13 +651,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Valor Maior.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2653v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -986,6 +988,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2617">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
