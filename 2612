@@ -1,0 +1,52 @@
+select movies.id, movies.name
+from movies
+inner join genres on genres.id = movies.id_genres
+inner join movies_actors on movies.id = movies_actors.id_movies
+inner join actors on actors.id = movies_actors.id_actors
+where actors.name like 'Marcelo Silva' or actors.name like 'Miguel Silva'
+and genres.description like 'Action';
+
+create table movies(
+id numeric primary key,
+name varchar(255),
+id_genres numeric);
+
+create table genres(
+id numeric primary key,
+description varchar(255));
+
+create table actors(
+id numeric primary key,
+name varchar(255));
+
+create table movies_actors(
+id_movies numeric,
+id_actors numeric);
+
+insert into movies values
+('1','Batman','3'),
+('2','The Battle of the Dark River','3'),
+('3','White Duck','1'),
+('4','Breaking Barriers','4'),
+('5','The Two Hours','2');
+
+insert into genres values
+('1','Animation'),
+('2','Horror'),
+('3','Action'),
+('4','Drama'),
+('5','Comedy');
+
+insert into actors values
+('1','Brad Antonio'),
+('2','Marcelo Silva'),
+('3','Miguel Silva'),
+('4','Drake Frost'),
+('5','Rodrigo Juares Rodriguez');
+
+insert into movies_actors values
+('1','1'),
+('2','3'),
+('2','2'),
+('4','1'),
+('5','2');
