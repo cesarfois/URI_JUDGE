@@ -2,205 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef041fb3-b7b8-4ad3-ba31-6d16c703b247" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas maior e menor valor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas retornar posicao do elemento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista converter lista em string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz 3x3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1087.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1089.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1104v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1140.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1169.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1171.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1192.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1216.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1219.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1221.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1237.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1239.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1248.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1249.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1253.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1255.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1257.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1263.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1272.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1273.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1278.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1305.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1323.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1329.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1332.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1367.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1371.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1379.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1387.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1397.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1430.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1436.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1448.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1467.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1515.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1519.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1533.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1536.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1546.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1547.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1548.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1551.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1553.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1555.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1574.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1581.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1585.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1609.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1708.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1743.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1763.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1768.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1794.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1871.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1871v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1873.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1898.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1943.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1953.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2049.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2062.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2108.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2137.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2150.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2157.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2174.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2175.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2253.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2295.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2338.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2339.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2342.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2356.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2369.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2373.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2374.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2375.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2381.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2386.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2395.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2413.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2414.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2416.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2417.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2423.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2434.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2444.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2453.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2454.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2455.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2456.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2473.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2479.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2484.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2533.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2534.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2540.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2542.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2543.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2544.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2547.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2551.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2554.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2554v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2557.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2568.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2582.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2591.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2592.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2602" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2603" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2604" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2605" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2606" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2607" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2608.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2609" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2610" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2611" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2612" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2613" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2614" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2615" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2616" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2617" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2618" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2619" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2620" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2621" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2622" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2623" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2624" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2625" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2630.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2633.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2651.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2653.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2653v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2663.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2670.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2679.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2692.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2694.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2708.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2712.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2714.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2717.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2721.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2728.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2737" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2738" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2739" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2740" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2741" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2742" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2744" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2745" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2746" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2747.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2748.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2749.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2750.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2751.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2755.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2757.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2758.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2760.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2761v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2762.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2765.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2783.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2803.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2807.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2812.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2815.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2826v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2829.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2844.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2845.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2846.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2850.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2862.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2866.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2867.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2879.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2896.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2923.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2926.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2927.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2928.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2930.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz.py" beforeDir="false" afterPath="$PROJECT_DIR$/1566.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -286,6 +92,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$1255.coverage" NAME="1255 Coverage Results" MODIFIED="1547838862795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2203.coverage" NAME="2203 Coverage Results" MODIFIED="1547063453801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1519.coverage" NAME="1519 Coverage Results" MODIFIED="1549161063023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$lista_converter_lista_em_string.coverage" NAME="lista converter lista em string Coverage Results" MODIFIED="1551871103260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1026.coverage" NAME="1026 Coverage Results" MODIFIED="1547128436070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1237.coverage" NAME="1237 Coverage Results" MODIFIED="1548342801996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2062.coverage" NAME="2062 Coverage Results" MODIFIED="1548429172521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -347,7 +154,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$2172.coverage" NAME="2172 Coverage Results" MODIFIED="1546857344664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2510.coverage" NAME="2510 Coverage Results" MODIFIED="1546908335835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1960.coverage" NAME="1960 Coverage Results" MODIFIED="1546605990236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Uri_Judge$2136.coverage" NAME="2136 Coverage Results" MODIFIED="1546886305940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$2136.coverage" NAME="2136 Coverage Results" MODIFIED="1551873121413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1329.coverage" NAME="1329 Coverage Results" MODIFIED="1551467085547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2779.coverage" NAME="2779 Coverage Results" MODIFIED="1546996457657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2764.coverage" NAME="2764 Coverage Results" MODIFIED="1547001353842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -356,6 +163,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$2234.coverage" NAME="2234 Coverage Results" MODIFIED="1546884195569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1430.coverage" NAME="1430 Coverage Results" MODIFIED="1548883702910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1332.coverage" NAME="1332 Coverage Results" MODIFIED="1548366005520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$matriz_3x3.coverage" NAME="matriz 3x3 Coverage Results" MODIFIED="1551830110817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2455.coverage" NAME="2455 Coverage Results" MODIFIED="1551382852534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1259.coverage" NAME="1259 Coverage Results" MODIFIED="1547170132897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2651.coverage" NAME="2651 Coverage Results" MODIFIED="1548422995549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -375,6 +183,7 @@
     <SUITE FILE_PATH="coverage/Uri_Judge$1028.coverage" NAME="1028 Coverage Results" MODIFIED="1547223982166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2633.coverage" NAME="2633 Coverage Results" MODIFIED="1549503100025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2028.coverage" NAME="2028 Coverage Results" MODIFIED="1546620473781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Uri_Judge$1566.coverage" NAME="1566 Coverage Results" MODIFIED="1551842886332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$1240___Encaixa_ou_Não_I.coverage" NAME="1240 - Encaixa ou Não I Coverage Results" MODIFIED="1547461929743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2373.coverage" NAME="2373 Coverage Results" MODIFIED="1551447686194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Uri_Judge$2679.coverage" NAME="2679 Coverage Results" MODIFIED="1549672933828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -506,7 +315,7 @@
       <file leaf-file-name="listas laços.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listas laços.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state>
               <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
@@ -515,26 +324,35 @@
       <file leaf-file-name="listas  com listas.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listas  com listas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="748">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Random.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Random.py">
+      <file leaf-file-name="matriz 3x3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matriz 3x3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="198">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listas retornar posicao do elemento.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/listas retornar posicao do elemento.py">
+      <file leaf-file-name="1566.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1566.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state>
+              <caret selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2136.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2136.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -586,11 +404,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2472.py" />
-        <option value="$PROJECT_DIR$/2473.py" />
-        <option value="$PROJECT_DIR$/2456.py" />
-        <option value="$PROJECT_DIR$/list verificar se esta ordenada.py" />
-        <option value="$PROJECT_DIR$/2455.py" />
         <option value="$PROJECT_DIR$/2444.py" />
         <option value="$PROJECT_DIR$/2453.py" />
         <option value="$PROJECT_DIR$/2454.py" />
@@ -637,6 +450,11 @@
         <option value="$PROJECT_DIR$/Random.py" />
         <option value="$PROJECT_DIR$/listas maior e menor valor.py" />
         <option value="$PROJECT_DIR$/listas retornar posicao do elemento.py" />
+        <option value="$PROJECT_DIR$/matriz.py" />
+        <option value="$PROJECT_DIR$/matriz 3x3.py" />
+        <option value="$PROJECT_DIR$/1566.py" />
+        <option value="$PROJECT_DIR$/lista converter lista em string.py" />
+        <option value="$PROJECT_DIR$/2136.py" />
       </list>
     </option>
   </component>
@@ -701,8 +519,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listas retornar posicao do elemento">
-    <configuration name="1216" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2136">
+    <configuration name="1566" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -715,13 +533,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1216.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1566.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1318" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2136" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -734,13 +552,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1318.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2136.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lista converter lista em string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Uri_Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -753,26 +571,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="listas maior e menor valor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Uri_Judge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listas maior e menor valor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista converter lista em string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -797,20 +596,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="matriz 3x3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Uri_Judge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matriz 3x3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1216" />
-      <item itemvalue="Python.1318" />
-      <item itemvalue="Python.Random" />
       <item itemvalue="Python.listas retornar posicao do elemento" />
-      <item itemvalue="Python.listas maior e menor valor" />
+      <item itemvalue="Python.matriz 3x3" />
+      <item itemvalue="Python.1566" />
+      <item itemvalue="Python.lista converter lista em string" />
+      <item itemvalue="Python.2136" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2136" />
+        <item itemvalue="Python.lista converter lista em string" />
+        <item itemvalue="Python.1566" />
+        <item itemvalue="Python.matriz 3x3" />
         <item itemvalue="Python.listas retornar posicao do elemento" />
-        <item itemvalue="Python.listas maior e menor valor" />
-        <item itemvalue="Python.Random" />
-        <item itemvalue="Python.1318" />
-        <item itemvalue="Python.1216" />
       </list>
     </recent_temporary>
   </component>
@@ -838,14 +656,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.36633664" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.42739275" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.50165015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.50165015" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.44224423" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -898,19 +715,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list ordenando listas.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list verificar se esta ordenada.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2456.py" />
-    <entry file="file://$PROJECT_DIR$/2455.py" />
-    <entry file="file://$PROJECT_DIR$/2444.py" />
     <entry file="file://$PROJECT_DIR$/2453.py" />
     <entry file="file://$PROJECT_DIR$/2454.py" />
     <entry file="file://$PROJECT_DIR$/contar elementos lista.py">
@@ -993,7 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listas laços.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state>
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
@@ -1001,20 +805,6 @@
     <entry file="file://$PROJECT_DIR$/1318.py" />
     <entry file="file://$PROJECT_DIR$/1216.py" />
     <entry file="file://$PROJECT_DIR$/1763.py" />
-    <entry file="file://$PROJECT_DIR$/listas  com listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/listas maior e menor valor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1026,6 +816,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matriz 3x3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listas  com listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1566.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista converter lista em string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista eliminando elementos repetidos de uma lista.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2136.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
