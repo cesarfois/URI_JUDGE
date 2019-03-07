@@ -1,5 +1,5 @@
 
-
+'''
 Yes, remove removes the first matching value, not a specific index:
 
 >>> a = [0, 2, 3, 2]
@@ -24,3 +24,5 @@ and pop removes the item at a specific index and returns it.
 
 while val_remove in my_list:
     my_list.remove(val_remove)
+
+'''
