@@ -3,6 +3,7 @@ while True:
     try:
         orig = {}
         sala = {}
+        cont = 0
         res = 0
         n = int(input())
         if n == 0:
@@ -18,7 +19,11 @@ while True:
             sala[c] = d
 
         for i in sala.keys():
-            if len(set(sala[i]) - set(orig[i])) > 1 or len(set(orig[i]) - set(sala[i])) > 1:
+            cont = 0
+            for e in range(len(sala[i])):
+                if sala[i][e] != orig[i][e]:
+                    cont += 1
+            if cont > 1:
                 res += 1
 
         print(res)
