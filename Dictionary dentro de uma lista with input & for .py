@@ -16,7 +16,7 @@ for i in brasil:
 print()
 
 for e in brasil:
-    for v in e.values():
+    for v in e.items():
         print(v, end= ' ')
     print()
 

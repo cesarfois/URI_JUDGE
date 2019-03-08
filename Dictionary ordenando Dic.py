@@ -1,5 +1,5 @@
 from time import sleep
-from operator import  itemgetter
+from operator import itemgetter
 jogo_ordenado = dict()
 jogo = {'Jogador1': 6,
         'Jogador2': 2,
@@ -15,3 +15,5 @@ for k, v in jogo_ordenado.items():
     print(k,v)
 sleep(2)
 print(type(jogo_ordenado))
+
+
