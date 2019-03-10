@@ -9,6 +9,9 @@ print(jogo)
 
 jogo_ordenado = dict(sorted(jogo.items(), key=itemgetter(1), reverse=True))
 
+#ordenar com multiples
+#l = sorted(l, key=itemgetter(0, 1))
+
 print(jogo_ordenado)
 
 for k, v in jogo_ordenado.items():
