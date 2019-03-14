@@ -18,6 +18,14 @@ The find() method returns an integer value.
     If substring exists inside the string, it returns the index of first occurence of the substring.
     If substring doesn't exist inside the string, it returns -1.
 
+"abcde".startswith("abc") -> true
+
+"abcde".startswith("bcd") -> false
+
+There is also the endswith() function, for checking at the other end.
+
+
+
 '''
 
 
